@@ -1,0 +1,9 @@
+id_cliente,tipo,categoria,valor,canal,nome,estado,perfil
+1,Crédito,Salário,3200.0,App,Ana,SP,Premium
+2,Débito,Alimentação,150.0,Agência,Bruno,RJ,Básico
+1,Débito,Transporte,1500.0,App,Ana,SP,Premium
+3,Crédito,Salário,4500.0,Internet Banking,Carlos,MG,Intermediário
+2,Crédito,Lazer,200.0,App,Bruno,RJ,Básico
+1,Débito,Alimentação,80.0,Agência,Ana,SP,Premium
+3,Débito,Transporte,1500.0,App,Carlos,MG,Intermediário
+2,Crédito,Salário,2800.0,Internet Banking,Bruno,RJ,Básico
